@@ -38,3 +38,19 @@ and clicked the laptop in the lobby.
 
   I entered 163.128.78.93 for the DNS server
 </p>
+
+
+![image](https://github.com/user-attachments/assets/2dfeda7f-9859-491f-b4ce-c1008b1822b4)
+
+
+
+![image](https://github.com/user-attachments/assets/d101f13e-57ab-4701-8fde-ab1d8ad993a1)
+
+
+<p>
+
+I changed manual to automatic in the networking setting and it replaces the old IP address, subnet, default gateway, and DNS Ip address.
+  
+</p>
+
+
