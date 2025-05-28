@@ -29,3 +29,12 @@ and clicked the laptop in the lobby.
   I entered the default DHCP gateway so when a new computer connects to the Corp Wi-Fi and it will fill automatically out the IP address, subnet, and default gateway.
 
 </p>
+
+
+![image](https://github.com/user-attachments/assets/54687130-49f2-4852-a949-4f56000a3f72)
+
+
+<p>
+
+  I entered 163.128.78.93 for the DNS server
+</p>
