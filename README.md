@@ -23,7 +23,7 @@ and clicked the laptop in the lobby.
 ![image](https://github.com/user-attachments/assets/d05082e2-8f1a-446d-9f84-3507d672170e)
 
 
-![image](https://github.com/user-attachments/assets/17341b51-0141-4225-8486-c9768d76bf18)
+![image](https://github.com/user-attachments/assets/6986d9f2-375b-434b-9534-fefb303f0061)
 
 <p>
   I entered the default DHCP gateway so when a new computer connects to the Corp Wi-Fi and it will fill automatically out the IP address, subnet, and default gateway.
