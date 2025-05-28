@@ -1,1 +1,31 @@
-# DHCP
+<h1>DHCP Server Scenario #1</h1>
+
+<p>
+
+What I have learned one of the labs from Testout is creating new scope in the DHCP server.
+At the end of the lab, I go to one of the rooms (simulation map that that shows different networking closet room, Office room, lobby room and other rooms)
+and clicked the laptop in the lobby.  
+  
+
+  
+</p>
+
+![image](https://github.com/user-attachments/assets/6d2cd180-82b5-4f90-bdf1-1ee54eb0d98e)
+
+
+<P>  
+  After clicking the DHCP server, I dropped down IPV4 options and created new scope. 
+  I wrote Subnet and filled out both Start IP and End IP.
+  192.168.0.20 for Start IP
+  192.168.0.200 for End IP
+</P>
+
+![image](https://github.com/user-attachments/assets/d05082e2-8f1a-446d-9f84-3507d672170e)
+
+
+![image](https://github.com/user-attachments/assets/17341b51-0141-4225-8486-c9768d76bf18)
+
+<p>
+  I entered the default DHCP gateway so when a new computer connects to the Corp Wi-Fi and it will fill automatically out the IP address, subnet, and default gateway.
+
+</p>
