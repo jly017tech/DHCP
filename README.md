@@ -50,7 +50,13 @@ and clicked the laptop in the lobby.
 <p>
 
 I changed manual to automatic in the networking setting and it replaces the old IP address, subnet, default gateway, and DNS Ip address.
+After that, I used ipconfig /all and verified the GSPT laptop is connecting to the internet. 
   
 </p>
 
+
+![image](https://github.com/user-attachments/assets/616286b6-49bb-48ba-b555-1735a31ddf82)
+
+
+  
 
